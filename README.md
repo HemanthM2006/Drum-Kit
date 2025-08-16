@@ -1,5 +1,5 @@
 
-````markdown
+
 # 🥁 Drum Kit
 
 A simple interactive **Drum Kit Web App** built using **HTML, CSS, and JavaScript**.  
@@ -9,7 +9,8 @@ Click on the buttons or press the corresponding keys on your keyboard to play dr
 
 ## 🚀 Demo
 - Click on the buttons (`w, a, s, d, j, k, l`)  
-- Or press the keys on your keyboard to play different drum sounds.  
+- Or press the keys on your keyboard to play different drum sounds.
+- Try it out right now: [hemanthm2006.github.io/Drum-Kit](https://hemanthm2006.github.io/Drum-Kit/)
 
 ---
 
@@ -19,6 +20,7 @@ Click on the buttons or press the corresponding keys on your keyboard to play dr
 - **JavaScript (ES6)** – Event handling and audio playback  
 
 ---
+````markdown
 
 ## 🎵 Controls
 | Key | Sound |
