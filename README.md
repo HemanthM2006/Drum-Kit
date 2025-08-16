@@ -1,23 +1,26 @@
- 🥁 Drum Kit
+
+```markdown
+# 🥁 Drum Kit
 
 A simple interactive **Drum Kit Web App** built using **HTML, CSS, and JavaScript**.  
 Click on the buttons or press the corresponding keys on your keyboard to play drum sounds!
 
+---
 
-🚀 Demo
+## 🚀 Demo
 - Click on the buttons (`w, a, s, d, j, k, l`)  
 - Or press the keys on your keyboard to play different drum sounds.  
 
+---
 
-
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 - **HTML5** – Structure of the webpage  
 - **CSS3** – Styling and button animations  
 - **JavaScript (ES6)** – Event handling and audio playback  
 
+---
 
-
-🎵 Controls
+## 🎵 Controls
 | Key | Sound |
 |-----|--------|
 | `w` | Tom 1 |
@@ -28,9 +31,10 @@ Click on the buttons or press the corresponding keys on your keyboard to play dr
 | `k` | Crash |
 | `l` | Kick Bass |
 
+---
 
-
-📂 Project Structure
+## 📂 Project Structure
+```
 
 drum-kit/
 │
@@ -58,31 +62,39 @@ drum-kit/
 │
 └── README.md         # Project documentation
 
+````
 
-🎯 Features
+---
+
+## 🎯 Features
 - Play drum sounds with mouse clicks or keyboard keys  
 - Button press animations for better UX  
 - Simple and responsive layout  
 
+---
 
-💻 How to Run Locally
+## 💻 How to Run Locally
 1. Clone this repository:
-
+   ```bash
    git clone https://github.com/HemanthM2006/Drum-Kit.git
-
+````
 
 2. Navigate into the project folder:
 
+   ```bash
    cd drum-kit
-   
+   ```
 3. Open `index.html` in your browser.
 
+---
 
- 📸 Screenshot
+## 📸 Screenshot
 
-<img width="1917" height="1079" alt="image" src="https://github.com/user-attachments/assets/9d1b26f9-4c33-4398-89de-855fb551359c" />
+<img width="1917" height="1079" alt="image" src="https://github.com/user-attachments/assets/b7eea10e-06c5-4de0-a73d-bbc3dc13393c" />
 
 
-📜 License
+---
+
+## 📜 License
 
 This project is licensed under the **MIT License** – you are free to use, modify, and share it.
